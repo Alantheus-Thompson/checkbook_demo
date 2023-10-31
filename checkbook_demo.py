@@ -1,3 +1,7 @@
+import os
+import json
+import checkbook_project_functions as cpf
+
 while True:
     print("Welcome to your terminal checkbook.")
     print("1. View current balance")
